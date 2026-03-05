@@ -83,7 +83,7 @@ Parameterized clock divider module — counts up to `CLK_FREQ / BAUD_RATE` cycle
 ![6_FSM_Receiver_Module](6_FSM_Receiver_Module.png)
 
 ### 7. ModelSim Simulation — Waveform & Transcript
-![7_Modelsim_results_1](7_Modelsim_results_1.png)
+![7_Modelsim_Results_1](7_Modelsim_Results_1.png)
 
 ### 8. ModelSim Simulation — Received vs Expected Results
 ![8_Modelsim_Results_2](8_Modelsim_Results_2.png)
