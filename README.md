@@ -81,7 +81,7 @@ Implemented a complete UART communication system with 3 separate modules — Bau
 
 > 📁 [View Module Details](./01%20:%20UART/README.md)
 
----
+
 
 **02 — FIFO** &nbsp;|&nbsp; `Circular Buffer` `Read/Write Pointers` `Full/Empty Flags`
 
@@ -89,7 +89,7 @@ Implemented a parameterized synchronous FIFO with configurable WIDTH (8-bit), DE
 
 > 📁 [View Module Details](./02%20:%20FIFO/README.md)
 
----
+
 
 **03 — Traffic Light Controller** &nbsp;|&nbsp; `Sensor-Driven` `Timer-Based` `Priority Logic`
 
@@ -97,7 +97,7 @@ Implemented a 4-state FSM traffic light controller with sensor-driven priority a
 
 > 📁 [View Module Details](./03%20:%20Traffic%20Light%20Controller/README.md)
 
----
+
 
 **04 — Automatic Temperature Control** &nbsp;|&nbsp; `One-Hot FSM` `Environment Simulation` `Auto Test Cases`
 
@@ -105,7 +105,7 @@ Implemented a 3-state one-hot FSM temperature controller (IDLE, HEATING, COOLING
 
 > 📁 [View Module Details](./04%20:%20Automatic%20Temperature%20Control/README.md)
 
----
+
 
 **05 — Washing Machine Controller** &nbsp;|&nbsp; `7-State FSM` `Timer-Driven` `Full Wash Cycle`
 
@@ -113,7 +113,7 @@ Implemented a 7-state FSM washing machine controller (IDLE → FILL → WASH →
 
 > 📁 [View Module Details](./05%20:%20Washing%20Machine%20Controller/README.md)
 
----
+
 
 <h2>🤝 Connect</h2>
 
